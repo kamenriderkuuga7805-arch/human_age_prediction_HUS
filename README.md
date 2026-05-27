@@ -58,6 +58,3 @@ Một số khó khăn trong quá trình thực hiện:
 ```bash
 git clone https://github.com/kamenriderkuuga7805-arch/human_age_prediction_HUS.git
 cd human_age_prediction_HUS
-
-cd your-repository-name
-om/kamenriderkuuga7805-arch/human_age_pr
