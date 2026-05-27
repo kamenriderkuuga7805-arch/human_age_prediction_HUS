@@ -1,6 +1,6 @@
 Dự án cuối kỳ môn Học máy (PHY3638) đề tài "Ứng dụng học sâu cho bài toán hồi quy dự đoán tuổi của người"
 ## 📌 Giới thiệu
-Dự án tập trung nghiên cứu và xây dựng mô hình dự đoán tuổi của con người từ ảnh khuôn mặt bằng phương pháp học sâu (Deep Learning).  
+Dự án tập trung nghiên cứu và xây dựng mô hình dự đoán tuổi của con người từ ảnh khuôn mặt bằng phương pháp học sâu (Deep Learning) trên môi trường Python.  
 Bài toán được tiếp cận dưới dạng **hồi quy (Regression)** thay vì phân loại, trong đó tuổi được xem là một biến liên tục.
 
 Mô hình đề xuất kết hợp:
@@ -27,7 +27,6 @@ Mô hình đề xuất kết hợp:
 
 | Thư viện | Vai trò |
 |---|---|
-| Python | Ngôn ngữ lập trình chính |
 | PyTorch | Xây dựng và huấn luyện CNN |
 | Scikit-learn | Ridge Regression và đánh giá mô hình |
 | OpenCV | Xử lý ảnh |
